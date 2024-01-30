@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431b9e5d902a2614bb309cedb1171349, type: 3}
+  m_Name: TrialData
+  m_EditorClassIdentifier: 
+  playerID: 
+  playerHandedness: 0
+  trialNr: 0
+  correctlyAnticipated_centerPoint: 0
+  correctlyAnticipated_topRightPoint: 0
+  correctlyAnticipated_topLeftPoint: 0
+  answerPlacement_centerPoint: 0
+  answerPlacement_topRightPoint: 0
+  answerPlacement_topLeftPoint: 0
+  shotPlacement: 0
+  tempOcclCondition: 0
+  spatOcclCondition: 0
+  testStartTimestamp: 
+  trialStartTimestamp: 
